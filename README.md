@@ -1,2 +1,3 @@
 # npm_project
-Publish Npm to Github packagdes
+Publish Npm to Github packages
+
